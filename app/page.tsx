@@ -84,7 +84,7 @@ export default function Home() {
         <Reveal>
           <h2 className="section-heading mb-1 !text-wine">Our Moments</h2>
           <p className="mb-3 text-center text-rosePetal/80">
-            Tap a photo to view · real pictures coming soon 📸
+            Tap a photo to view 📸
           </p>
           <div className="mb-9">
             <OrnamentV3 />
